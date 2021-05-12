@@ -3,7 +3,11 @@ Repositorio con las entregas de la asignatura Periféricos y Dispositivos de Int
 
 ## Seminarios
 - [Seminario 1](S1/)
+- [Seminario Arduino](S-arduino/)
+- [Seminario LKM](S-LKM/)
 
 ## Prácticas
 - [Práctica 1](P1/)
 - [Práctica 2](P2/)
+- [Práctica 3](P3/)
+- [Práctica 4](P4/)
