@@ -1,0 +1,85 @@
+%!PS
+
+% Base rellena
+newpath
+0.7 setgray
+200 340 moveto
+140 0 rlineto
+0 100 rlineto
+-140 0 rlineto
+closepath
+fill
+stroke
+
+% Linea Base
+newpath
+0.5 0.6 0.76 setrgbcolor
+200 340 moveto
+140 0 rlineto
+0 100 rlineto
+-140 0 rlineto
+closepath
+stroke
+
+% Linea Puerta
+newpath
+0.5 0.6 0.76 setrgbcolor
+255 340 moveto
+30 0 rlineto
+0 50 rlineto
+-30 0 rlineto
+closepath
+stroke
+
+% Linea Ventana 1
+newpath
+0.5 0.6 0.76 setrgbcolor
+220 400 moveto
+30 0 rlineto
+0 20 rlineto
+-30 0 rlineto
+closepath
+stroke
+
+% Linea Ventana 2
+newpath
+0.5 0.6 0.76 setrgbcolor
+290 400 moveto
+30 0 rlineto
+0 20 rlineto
+-30 0 rlineto
+closepath
+stroke
+
+% Tejado relleno
+newpath
+0.7 setgray
+180 440 moveto
+180 0 rlineto
+-90 80 rlineto
+closepath
+fill
+stroke
+
+% Linea Tejado
+newpath
+0.5 0.6 0.76 setrgbcolor
+180 440 moveto
+180 0 rlineto
+-90 80 rlineto
+closepath
+stroke
+
+% Texto
+/Times-Roman findfont
+10 scalefont
+setfont
+0 setgray
+newpath
+170 370 moveto
+90 rotate
+(mi casita) show
+stroke
+
+showpage
+%%EOF
