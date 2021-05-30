@@ -11,3 +11,4 @@ Repositorio con las entregas de la asignatura Periféricos y Dispositivos de Int
 - [Práctica 2](P2/)
 - [Práctica 3](P3/)
 - [Práctica 4](P4/)
+- [Práctica 5](P5/)
